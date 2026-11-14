@@ -7,7 +7,7 @@ Cara menjalankan file :
 * jika sudah jalankan perintah di dalam tanda kutip "Pyhton nama_file.py" enter
 
 ## File besic_syntax.py
-Mini project example split bill pembayaran, type data dan variable
+Type data dan variable : Mini project example split bill pembayaran
 
 ## File control_flow.py
-Mini project example BMI, Operator & Percabangan Logic
+Operator & Percabangan Logic : Mini project example BMI
