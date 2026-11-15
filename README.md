@@ -5,6 +5,7 @@ Cara menjalankan file :
 * buka file di text editor (pastikan sudah download [pyhton](https://www.python.org/))
 * buka terminal / cmd / command line, pastikan sudah berada di lokasi file diletakan (pwd/cd)
 * jika sudah jalankan perintah di dalam tanda kutip "Pyhton nama_file.py" enter
+***
 
 ## File besic_syntax.py
 Type data dan variable : **Mini project** example split bill pembayaran
@@ -24,7 +25,7 @@ Kategori: Normal (Ideal)
 ***
 
 ## File loop.py
-Loop Simple : **Mini project** Login terbatas simpel
+Loop Simple : **Mini project** : Login terbatas simpel
 
 **Ouput**
 > Percobaan ke-1 memasukkan: '123456'\
