@@ -10,5 +10,5 @@ bayar_per_orang = total_akhir / jumlah_org
 
 # Cetak use f-string untuk menyisipkan variabel ke dalam teks
 print(f"Struk {name_location}")
-print(f"Total setelah pajak {ppn_persen}% : Rp.{total_akhir:,.0f}")
+print(f"Total setelah pajak {ppn_persen}% : Rp.{total_akhir:,.0f}") # fungsi dari ":,.0f" = angka dibelakang koma adalah 0 ankga
 print(f"Patungan per orang ({jumlah_org} org): Rp.{bayar_per_orang:,.0f}")

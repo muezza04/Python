@@ -3,9 +3,9 @@
 
 berat_kg = 60
 tinggi_m = 1.69
-bmi = berat_kg / (tinggi_m**2)
+bmi = berat_kg / (tinggi_m**2) #tanda "**2" artinya pangkat 2
 
-print(f"Skor BMI anda : {bmi:,.1f}")
+print(f"Skor BMI anda : {bmi:,.1f}") #angka belakang koma adalah 1 angka
 
 if bmi < 18.5:
     kategori = "Berat badan kurang"
