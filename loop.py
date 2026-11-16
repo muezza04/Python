@@ -1,9 +1,9 @@
 # Project Mini use Loop Simple : Simulasi Percobaan Login dengan Batas Maksimal
 
 password = "admin123"
-try_input = ["123456", "admin", "rahasia", "halloword", "admin123"]
+try_input = ["123456", "admin", "rahasia", "halloword", "admin123"] #list []
 
-for index, tebakan in enumerate(try_input, start=1):
+for index, tebakan in enumerate(try_input, start=1): # fungsi dari enumerate adalah untuk mengambil index dan key dari list
     print(f"Percobaan ke-{index} memasukkan: '{tebakan}'")
     if tebakan == password:
         print("-> Akses diterima! Perulangan dihentikan")
