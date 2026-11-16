@@ -25,7 +25,7 @@ Kategori: Normal (Ideal)
 ***
 
 ## File loop.py
-Loop Simple : **Mini project** : Login terbatas simpel
+Loop Simple : **Mini project** Login terbatas simpel
 
 **Ouput**
 > Percobaan ke-1 memasukkan: '123456'\
@@ -36,3 +36,16 @@ Percobaan ke-5 memasukkan: 'admin123'\
 -> Akses diterima! Perulangan dihentikan
 ***
 
+## File data_structures.py
+Jenis Data Structures Core : **Mini project** Management inventaris simple
+* List ([]): Berurutan, bisa diubah, dan mengizinkan data ganda.
+* Tuple (()): Berurutan, tetapi tidak bisa diubah setelah dibuat (immutable).
+* Set ({}): Tidak berurutan dan otomatis menghapus elemen yang duplikat.
+* Dictionary ({key: value}): Menyimpan data berpasangan agar mudah dicari berdasarkan kata kuncinya.
+
+**Output**
+> ========Daftar Stok Gudang========\
+\- Kopi Arabika: 15 pcs (Rp23,000)\
+\- Kopi Kenangan: 5 pcs (Rp20,000)\
+\- Ameracano: 20 pcs (Rp15,000)
+***
