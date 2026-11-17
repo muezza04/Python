@@ -11,4 +11,4 @@ inventaris["Kopi Kenangan"]["stok"] -= 5 # -= edit directory yang sudah ada
 
 print("========Daftar Stok Gudang========")
 for nama_barang, info in inventaris.items(): # fungsi dari .items() disini untuk mengambil nilainya.
-    print(f"- {nama_barang}: {info['stok']} pcs (Rp{info['harga']:,})")
+    print(f"- {nama_barang}: {info['stok']} pcs (Rp{info['harga']:,})") # Fungsi dari :, berfungsi untuk memberikan tanda belakang koma
